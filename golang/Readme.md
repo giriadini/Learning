@@ -16,6 +16,7 @@ We can also run go in a small docker container:
 - *docker run -it -v ${PWD}:/work go sh*
 - *go version*
 
+**Hello world**
 **Create mod file**
 
 *go mod init  github.com/Learning/golang/introduction/app*
