@@ -36,3 +36,8 @@ We can also run go in a small docker container:
 **install**
 
 *go install  github.com/Learning/golang/introduction/app*
+
+
+**Install code runner to run the code in vscode**
+
+**check box allow coderuner to run from terminal to enter user inputs**
